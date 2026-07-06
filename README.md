@@ -65,9 +65,9 @@ Rather than only storing code, I am gradually building a structured research wor
 
 | Repository | Purpose |
 |---|---|
-| `research-skills` | Reusable research workflows and templates |
-| `paper-reading-notes` | Structured paper reading notes |
-| `scientific-writing-templates` | Academic writing templates |
+| [`research-skills`](https://github.com/fuzzy0306/research-skills) | Reusable research workflows and templates |
+| [`paper-reading-notes`](https://github.com/fuzzy0306/paper-reading-notes) | Structured paper reading notes |
+| [`scientific-writing-templates`](https://github.com/fuzzy0306/scientific-writing-templates) | Academic writing templates |
 | `flexible-sensor-notes` | Notes on flexible sensing materials and structures |
 | `simulation-workflows` | Simulation notes and analysis workflows |
 | `signal-processing-notes` | Biomedical signal processing notes |
